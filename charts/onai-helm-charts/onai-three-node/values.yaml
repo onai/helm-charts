@@ -21,7 +21,7 @@ m1:
 
   image:
     repository: us-west4-docker.pkg.dev/aardant-489720/aardant-repo/okn.us-website
-    tag: "0.0.11"
+    tag: "0.0.12"
     pullPolicy: Always
 
   # Command to keep the container running - override for your app
