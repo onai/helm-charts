@@ -181,7 +181,7 @@ m3:
 
   image:
     repository: us-west4-docker.pkg.dev/aardant-489720/aardant-repo/aardant-unc-relay
-    tag: "0.79.8"
+    tag: "0.81.0"
     pullPolicy: Always
 
   # Command to keep the container running - override for your app
